@@ -6,7 +6,7 @@ We build reliable Jira integrations and automation — practical tools for teams
 
 ## What we make
 
-- **[Autoticket for Sentry and Jira](https://integrationyard.com/autoticket/)** — create and two-way sync Jira work items from Sentry issues and alerts (including Sentry Team plan). Guides:
+- **[Autoticket for Sentry and Jira](https://marketplace.atlassian.com/apps/1464291935/autoticket-for-sentry-and-jira?utm_source=github&utm_medium=profile&utm_campaign=launch)** — now on the Atlassian Marketplace. Create and two-way sync Jira work items from Sentry issues and alerts (including Sentry Team plan). [Product page](https://integrationyard.com/autoticket/) and guides:
   - [Automatic tickets on Sentry Team](https://integrationyard.com/autoticket/automatic-tickets-on-sentry-team-plan/)
   - [Required custom fields](https://integrationyard.com/autoticket/sentry-jira-required-custom-fields/)
   - [Close Jira when Sentry resolves](https://integrationyard.com/autoticket/close-jira-ticket-when-sentry-issue-resolved/)
@@ -27,6 +27,7 @@ Prefer GitHub issues, Atlassian Community, and X — we show up as **Integration
 
 | | |
 |---|---|
+| Marketplace | https://marketplace.atlassian.com/apps/1464291935/autoticket-for-sentry-and-jira?utm_source=github&utm_medium=profile&utm_campaign=launch |
 | Product | https://integrationyard.com/autoticket/ |
 | Docs / setup | https://integrationyard.com/autoticket/docs/setup/ |
 | About | https://integrationyard.com/about/ |
